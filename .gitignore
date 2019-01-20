@@ -1,3 +1,6 @@
 
 *.DS_Store
 input/train.csv
+kernels/logs/*
+*.ipynb_checkpoints
+*.hdf5
